@@ -28,3 +28,5 @@ text.onmouseleave = () =>{
     text.classList.remove('title');
     text.setAttribute('class', 'text');
 }
+
+
